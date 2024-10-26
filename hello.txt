@@ -25,8 +25,3 @@ Hello world!.255
 Hello world!.255
 Hello world!.255
 Hello world!.255
-<<<<<<< HEAD
-
->>>>>>> hot-fix
-=======
->>>>>>> hot-fix
